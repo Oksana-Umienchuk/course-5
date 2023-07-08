@@ -75,3 +75,9 @@ ul[class$="list"] {
     display: flex;
     justify-content: center;
 }
+
+a {
+    text-decoration: none;
+    color: #070707;
+    text-decoration: underline;
+}
