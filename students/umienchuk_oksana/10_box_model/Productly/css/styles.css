@@ -120,9 +120,7 @@ footer .menu__item {
 
 h4 {
     color: #544837;
-    font-family: Montserrat;
     font-size: 20px;
-    font-style: normal;
     font-weight: 700;
     line-height: 30px;
     margin: 20px 0;
@@ -135,7 +133,7 @@ h4 {
 }
 
 input {
-    padding: 10px;
+    padding: 0 10px;
     border-radius: 4px;
     border: 1px solid #BCD0E5;
     min-height: 30px;
