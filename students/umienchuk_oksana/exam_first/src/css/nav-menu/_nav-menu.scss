@@ -172,6 +172,20 @@
         &::after {
             bottom: -12px;
         }
+
+        &-menu-small {
+            background-color: transparent;
+
+            &::before {
+                top: 0;
+                transform: rotate(45deg);
+            }
+
+            &::after {
+                bottom: 0;
+                transform: rotate(-45deg);
+            }
+        }
     }
 }
 
