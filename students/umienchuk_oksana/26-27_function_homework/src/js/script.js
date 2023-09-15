@@ -105,8 +105,6 @@ function findPerf(a, b) {
             console.log('Число ' + p + ' досконале');
         }
     }
-
-    return p;
 }
 
 
