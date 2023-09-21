@@ -1,7 +1,12 @@
 @use 'sass:math';
+@import "../../node_modules/slick-carousel/slick/slick.css";
+@import "../../node_modules/slick-carousel/slick/slick-theme.css";
 @import "./variables";
 @import "./extend";
 @import "./mixins";
 @import "./reset";
 @import "./global";
 @import "./btn";
+@import "./hero";
+@import "./arrivals";
+@import "./partners";

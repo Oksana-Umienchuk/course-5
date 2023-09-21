@@ -1,7 +1,6 @@
-@include font-face ('josefin-sans-v26-latin-300', 300);
-@include font-face ('josefin-sans-v26-latin-regular', 400);
-@include font-face ('josefin-sans-v26-latin-700', 700);
-@include font-face ('aleo-v12-latin-regular', 400, $font-sub-font);
+@include font-face ('montserrat-v26-latin-500', 500);
+@include font-face ('montserrat-v26-latin-600', 600);
+@include font-face ('montserrat-v26-latin-700', 700);
 
 body {
     font-family: $main-font;

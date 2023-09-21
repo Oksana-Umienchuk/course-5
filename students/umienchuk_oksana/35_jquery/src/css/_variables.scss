@@ -42,16 +42,17 @@ $text-transform-capit: capitalize;
 
 
 //main color for text 
-$default-body-color: $color-white;
-$default-body-bg-color: $dark-grey;
+$default-body-color: $black;
+$default-body-bg-color: $color-white;
+
 // fonts
 $fallback: Arial, Helvetica, sans-serif;
-$default-font-name: Josefin Sans;
+$default-font-name: 'Montserrat';
 $main-font: $default-font-name, $fallback;
 $default-font-size: 16px;
 $default-font-weight: $font-weight;
 
-$font-sub-font: Aleo;
+$font-sub-font: 'Montserrat';
 $default-font-sub-font: $font-sub-font, $fallback;
 $font-path: './fonts/';
 $base-img-path: '../';
@@ -64,19 +65,14 @@ $btn-height-sec: 52px;
 $btn-height-secondary: $btn-height-sec;
 
 // containers
-$container-padding: 15px;
-$container-max-width: 1350px;
+$container-padding: 40px;
+$container-max-width: 1320px;
 
 $gap-cont: 15px;
 $gap: 15px;
 $defaulp-count-col: 12;
 
 $default-width: 1350px;
-
-//block steps
-$default-bg-color: $dark-grey;
-$icon-width: 64px;
-$icon-height: 64px;
 
 //menu_open
 $default-bg-color-menu-open: $color-white;
